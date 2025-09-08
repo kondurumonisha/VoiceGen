@@ -1,14 +1,39 @@
-# Text to audio converter
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kondurumonisha-6659s-projects/v0-voice-gen)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/Echj0wqaR31)
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+🚀 Overview
+
+VoiceGen is a modern web application that converts text into speech while seamlessly translating it into multiple Indian languages such as Hindi, Telugu, Tamil, Malayalam, and more.
+
+It is designed to be simple, interactive, and powerful, making communication across languages effortless.
+
+✨ Features
+
+📝 Text Input – Enter or paste text for translation and speech conversion.
+
+🌐 Language Translation – Supports Indian languages (Hindi, Telugu, Tamil, Malayalam, etc.).
+
+🔊 Text-to-Speech (TTS) – Listen to natural-sounding speech in the target language.
+
+🔄 Swap Languages – Instantly swap between source and target languages.
+
+⚡ Quick Samples – Predefined phrases like greetings, thanks, questions, and emergency use cases.
+
+🎨 Modern UI – Clean, responsive design with dark theme for better readability.
+
+🖥️ Tech Stack
+
+Next.js – Frontend & API routes
+
+TypeScript – Strongly typed development
+
+Tailwind CSS – Styling and responsive layout
+
+MyMemory API – Free translation service
+
+Web Speech API – For generating natural text-to-speech
 
 ## Deployment
 
