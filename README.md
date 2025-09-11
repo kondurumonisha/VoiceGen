@@ -28,37 +28,37 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🖥️ Tech Stack
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Next.js – Frontend & API routes
+- Next.js – Frontend & API routes
 
-TypeScript – Strongly typed development
+- TypeScript – Strongly typed development
 
-Tailwind CSS – Styling and responsive layout
+- Tailwind CSS – Styling and responsive layout
 
-MyMemory API – Free translation service
+- MyMemory API – Free translation service
 
-Web Speech API – For generating natural text-to-speech
+- Web Speech API – For generating natural text-to-speech
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🎯 How It Works
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Enter text in the Input Box
+- Enter text in the Input Box
 
-Select Source Language and Target Language
+- Select Source Language and Target Language
 
-Click Translate
+- Click Translate
 
-View translated text in the Output Box
+- View translated text in the Output Box
 
-Convert translated text to speech instantly
+- Convert translated text to speech instantly
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🌍 Demo Use Cases
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Helping students understand content in their mother tongue
+- Helping students understand content in their mother tongue
 
-Assisting travelers with quick translations
+- Assisting travelers with quick translations
 
-Voice assistance in regional languages
+- Voice assistance in regional languages
 
-Accessibility tool for visually impaired users
+- Accessibility tool for visually impaired users
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 📌 Future Enhancements
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
